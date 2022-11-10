@@ -1,16 +1,3 @@
 # shop
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-	Shop application. An internet shop, where user is able to choose/add/change/remove items. All users, items and orders is stored in Firebase database. Each user has his own order story. In the app exceptions such as incorrect e-mail or password are handled. Work has been done during flutter course lessons.
